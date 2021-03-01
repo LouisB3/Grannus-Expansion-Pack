@@ -10,7 +10,7 @@ GEP is designed to provide several installation options. It can be added to the 
   * [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
   * ModularFlightIntegrator
   * Module Manager
-  
+
 ## Installation Instructions
 
 1. Begin with an installation of KSP version 1.8.1 or later, running in 64-bit.
@@ -82,7 +82,7 @@ Sigma HeatShifter - Required to correctly align minimum and maximum global tempe
 
 GEP works with the stock solar system, [Galileo's Planet Pack](https://github.com/Galileo88/Galileos-Planet-Pack/releases), [Outer Planets Mod](https://github.com/Poodmund/Outer-Planets-Mod/releases), and [Minor Planets Expansion](https://spacedock.info/mod/2383/Minor%20Planets%20Expansion?ga=%3CGame+3102+%27Kerbal+Space+Program%27%3E) in a variety of configurations, both primary and secondary. Orbits are modified as necessary to assure seamless integration.
 
-GEP also works with [JNSQ](https://github.com/Galileo88/JNSQ/releases) using the optional add-on GEP_Rescale (see instructions above). At present, GEP is the only planet pack known to be rescaled and configured specifically for use alongside JNSQ. 
+GEP also works with [JNSQ](https://github.com/Galileo88/JNSQ/releases) using the optional add-on GEP_Rescale (see instructions above). At present, GEP is the only planet pack known to be rescaled and configured specifically for use alongside JNSQ.
 
 ## Recommended mods with support for or by GEP
 
@@ -97,6 +97,7 @@ GEP also works with [JNSQ](https://github.com/Galileo88/JNSQ/releases) using the
   * [Kerbalism](https://github.com/Kerbalism/Kerbalism/releases) (GEP_Primary only)
   * [Kronometer](https://github.com/StollD/Kronometer/releases) (GEP_Primary only)
   * [Kerbal Konstructs](https://github.com/GER-Space/Kerbal-Konstructs/releases) (GEP_Primary only)
+  * [Space Dust](https://github.com/post-kerbin-mining-corporation/SpaceDust) & [Dust Bunnies](https://github.com/JadeOfMaar/SpaceDustBunnies)
 
 ## Known Issues
 
